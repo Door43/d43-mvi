@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvi:home|Door43 (mvi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvi|d43-mvi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvi/archive/master.zip|d43-mvi.zip]]
+
+**Recent Changes**
+{{changes>ns = mvi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvi|Ethnologue data]]
+
